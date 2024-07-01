@@ -1,64 +1,257 @@
 {
     "Vegetarian": [
         {
-            "id": 10,
-            "name": "Vegan Veggie",
-            "price": "23.95",
-            "menu_description": "Daiya vegan mozzarella, paired with fresh veggies",
+            "id": 1,
+            "name": "Farmhouse",
+            "price": "459",
+            "menu_description": "Delightful combination of onion, capsicum, tomato & grilled mushroom",
             "classifications": {
                 "vegetarian": true
             },
             "assets": {
                 "menu": [
                 {
-                    "url": "https://www.cicis.com/content/images/cicis/Jalapeno%20pizza.png"
-                }
-                ],
-                "product_details_page": [
-                {
-                    "url": "https://assets.zumepizza.com/public/aq89hll9.jpg"
+                    "url": "https://images.dominos.co.in/nextgen-catalog/media/prod/Dominos/menu/1b892978-f689-4199-90d2-47df4e261235_farmhouse.png"
                 }
                 ]
             }
         },
+        {
+            "id": 2,
+            "name": "Primavera Gourmet-Pizza",
+            "price": "549",
+            "menu_description": "Gourmet veggie delight with bocconcini, zucchini, bell peppers, and mushrooms.",
+            "classifications": {
+                "vegetarian": true
+            },
+            "assets": {
+                "menu": [
+                {
+                    "url": "https://images.dominos.co.in/nextgen-catalog/media/prod/Dominos/menu/b3e47f55-8b08-4e2b-af36-0826e2ca734e_Primavera.jpg"
+                }
+                ]
+            }
+        },
+        {
+            "id": 3,
+            "name": "Peppy Paneer",
+            "price": "459",
+            "menu_description": "Flavorful trio of juicy paneer, crisp capsicum with spicy red paprika",
+            "classifications": {
+                "vegetarian": true
+            },
+            "assets": {
+                "menu": [
+                {
+                    "url": "https://images.dominos.co.in/nextgen-catalog/media/prod/Dominos/menu/f65964c6-de96-475d-a5a9-3f3698d66ee7_new_peppy_paneer.jpg"
+                }
+                ]
+            }
+        }
+        {
+            "id": 4,
+            "name": "Al Fungi Gourmet-Pizza",
+            "price": "549",
+            "menu_description": "Gourmet mushroom pizza on a cheesy Mozzarella base with jalapenos & cherry tomatoes.",
+            "classifications": {
+                "vegetarian": true
+            },
+            "assets": {
+                "menu": [
+                {
+                    "url": "https://images.dominos.co.in/nextgen-catalog/media/prod/Dominos/menu/ab6fc042-dae9-4ddd-8165-9851ac93e96c_AlFungi.jpg"
+                }
+                ]
+            }
+        }
+        {
+            "id": 5,
+            "name": "Blazing Onion & Paprika",
+            "price": "329",
+            "menu_description": "Hot & spicy pizza with onion & red paprika toppings and a new spicy peri peri sauce on a Domino's cheesy base.",
+            "classifications": {
+                "vegetarian": true
+            },
+            "assets": {
+                "menu": [
+                {
+                    "url": "https://images.dominos.co.in/nextgen-catalog/media/prod/Dominos/menu/10ddf620-ae20-477f-b4b2-9bce1ded021d_BlazingOnionPaprikacartmenu.jpeg"
+                }
+                ]
+            }
+        }
+        {
+            "id": 6,
+            "name": "Veg Extravaganza",
+            "price": "549",
+            "menu_description": "Black olives, capsicum, onion, grilled mushroom, corn, tomato, jalapeno & extra cheese",
+            "classifications": {
+                "vegetarian": true
+            },
+            "assets": {
+                "menu": [
+                {
+                    "url": "https://images.dominos.co.in/nextgen-catalog/media/prod/Dominos/menu/5f8ad75f-22d0-4dfb-80e1-852fe2f1caf9_new_veg_extravaganza.jpg"
+                }
+                ]
+            }
+        }
+        {
+            "id": 7,
+            "name": "Indi Tandoori Paneer",
+            "price": "549",
+            "menu_description": "It is hot. It is spicy. It is oh-so-Indian. Tandoori paneer with capsicum, red paprika & mint mayo",
+            "classifications": {
+                "vegetarian": true
+            },
+            "assets": {
+                "menu": [
+                {
+                    "url": "https://images.dominos.co.in/nextgen-catalog/media/prod/Dominos/menu/17bc2a18-73f5-49d7-95eb-327091806cd6_IndianTandooriPaneer.jpg"
+                }
+                ]
+            }
+        }
+        {
+            "id": 8,
+            "name": "Quattro Formaggi Gourmet-Pizza",
+            "price": "549",
+            "menu_description": "Gourmet cheesy delight with bocconcini, mozzarella, cheddar and ghost pepper cheese.",
+            "classifications": {
+                "vegetarian": true
+            },
+            "assets": {
+                "menu": [
+                {
+                    "url": "https://images.dominos.co.in/nextgen-catalog/media/prod/Dominos/menu/dfd27c77-dd16-4c79-af06-1b13b654f0b1_5Cheese.jpg"
+                }
+                ]
+            }
+        }
+        {
+            "id": 9,
+            "name": "Veggie Paradise",
+            "price": "459",
+            "menu_description": "The awesome foursome! Golden corn, black olives, capsicum, red paprika",
+            "classifications": {
+                "vegetarian": true
+            },
+            "assets": {
+                "menu": [
+                {
+                    "url": "https://images.dominos.co.in/nextgen-catalog/media/prod/Dominos/menu/8a9f4cab-4f46-4b71-8e9b-55bba0b96366_new_veggie_paradise.jpg"
+                }
+                ]
+            }
+        }
+        {
+            "id": 10,
+            "name": "Mexican Green Wave",
+            "price": "459",
+            "menu_description": "Mexican herbs sprinkled on onion, capsicum, tomato & jalapeno",
+            "classifications": {
+                "vegetarian": true
+            },
+            "assets": {
+                "menu": [
+                {
+                    "url": "https://images.dominos.co.in/nextgen-catalog/media/prod/Dominos/menu/09e3f02a-3c27-46b1-b358-68fdd8fbd978_new_mexican_green_wave.jpg"
+                }
+                ]
+            }
+        }
         {
             "id": 11,
-            "name": "Veggie Zupreme",
-            "price": "19.95",
-            "menu_description": "The freshest, locally sourced veggies",
+            "name": "Cheese n Corn",
+            "price": "379",
+            "menu_description": "A delectable combination of sweet & juicy golden corn",
             "classifications": {
                 "vegetarian": true
             },
             "assets": {
                 "menu": [
                 {
-                    "url": "https://modpizza.com/wp-content/uploads/2021/12/Website-Maddy.png"
-                }
-                ],
-                "product_details_page": [
-                {
-                    "url": "https://assets.zumepizza.com/public/aq89hll9.jpg"
+                    "url": "https://images.dominos.co.in/nextgen-catalog/media/prod/Dominos/menu/a94524cf-3acc-476a-a3a8-f0209ea9d4b2_new_cheese_n_corn.jpg"
                 }
                 ]
             }
-        },
+        }
         {
             "id": 12,
-            "name": "The O.G.",
-            "price": "16.95",
-            "menu_description": "The Margherita—with California flair",
+            "name": "Cheese Overload",
+            "price": "639",
+            "menu_description": "Cheese Overloaded Pizza with a medley of Mozzarella, Cheddar & Ghost Pepper flavoured Cheese.",
             "classifications": {
                 "vegetarian": true
             },
             "assets": {
                 "menu": [
                 {
-                    "url": "https://littlefrenchhouse.in/restaurant/wp-content/uploads/2021/01/Truffle-Chilli-Pizza-1.png"
+                    "url": "https://images.dominos.co.in/nextgen-catalog/media/prod/Dominos/menu/7f78135a-c94a-4586-b9c2-35e955924e57_The4CheesePizza.jpg"
                 }
-                ],
-                "product_details_page": [
+                ]
+            }
+        }
+        {
+            "id": 13,
+            "name": "Double Cheese Margherita",
+            "price": "379",
+            "menu_description": "A classic delight loaded with extra 100% real mozzarella cheese",
+            "classifications": {
+                "vegetarian": true
+            },
+            "assets": {
+                "menu": [
                 {
-                    "url": "https://assets.zumepizza.com/public/95n7xd91.jpg"
+                    "url": "https://images.dominos.co.in/nextgen-catalog/media/prod/Dominos/menu/ac5bab3f-11f7-4db2-9d7e-ebf8f7c3d3b7_double_cheese_margherita_2502.jpg"
+                }
+                ]
+            }
+        }
+        {
+            "id": 14,
+            "name": "Fresh Veggie",
+            "price": "379",
+            "menu_description": "Delectable combination of onion & capsicum, a veggie lovers pick",
+            "classifications": {
+                "vegetarian": true
+            },
+            "assets": {
+                "menu": [
+                {
+                    "url": "https://images.dominos.co.in/nextgen-catalog/media/prod/Dominos/menu/d9d123bc-2284-4e1c-b908-cca62ec5b2b8_new_fresh_veggie.jpg"
+                }
+                ]
+            }
+        }
+        {
+            "id": 15,
+            "name": "Achari Do Pyaza",
+            "price": "329",
+            "menu_description": "Tangy & spicy achari flavours on a super cheesy onion pizza- as desi as it gets!",
+            "classifications": {
+                "vegetarian": true
+            },
+            "assets": {
+                "menu": [
+                {
+                    "url": "https://images.dominos.co.in/nextgen-catalog/media/prod/Dominos/menu/fb4ccc5f-56d0-4f2b-9cd1-cd24fe2d6770_updated_achari_do_pyaza.jpg"
+                }
+                ]
+            }
+        }
+        {
+            "id": 16,
+            "name": "Corn n Cheese Paratha Pizza",
+            "price": "179",
+            "menu_description": "A crazy fusion like never before. A delicious fusion of corn stuffed paratha and cheesy pizza.",
+            "classifications": {
+                "vegetarian": true
+            },
+            "assets": {
+                "menu": [
+                {
+                    "url": "https://images.dominos.co.in/nextgen-catalog/media/prod/Dominos/menu/b761377f-9a50-4717-bf38-80f8355946ab_CornnCheeseParathaPizza.jpg"
                 }
                 ]
             }
